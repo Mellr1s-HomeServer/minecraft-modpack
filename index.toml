@@ -3,3 +3,53 @@ hash-format = "sha256"
 [[files]]
 file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3c4d4c97d1a3cb0c9818a8e95f56f551a6f0dfdc86ac3a9955ffceb47d1fe2fe"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bc9dbc59ed18749ebe8b2545b38cce326611b6a3957ae9e9984b2fc905a0e0af"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0c2a00cdbcf84f32ed8c6232e94cadb586bf1280d6b922818db808c16c6d8a77"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "79e462bab4d7d6df9c6f44e25b5121b878c327abb064024290e96f124d0631ad"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+metafile = true
+
+[[files]]
+file = "mods/opti-zoom.pw.toml"
+hash = "24dd6543a69eb712fd8d16d71365d7ab26b25d621f6789f64be27bdfb56192da"
+metafile = true
+
+[[files]]
+file = "mods/ping-view.pw.toml"
+hash = "5feb5943b2d67736363b69cd5b14021573f835f7c9dd376f7597b03ba83030f7"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "58dc0ce5f0f89fcd94dae6df1df1b440078d122173ff0a223b540561221d258a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e243aee66d3bce50082e7d61936f535688002ea81d021d0808fd6cdd40b6bd66"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b469ff5d0587b0d6e1f77961a67d910383ee8a675472b92c7813d01f29f0830e"
+metafile = true
