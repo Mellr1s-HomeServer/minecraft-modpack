@@ -1,0 +1,13 @@
+name = "Minecraft Work Space Mod Packs"
+author = "Mellr1s"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6d8fa28bb3dc48e702fb877bc10a3d4749b964c81595e506c8269fa04e65b28"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.11"
