@@ -49,6 +49,20 @@ Prism Launcherを起動したら、
 
 ---
 
+## Minecraft-WorkSpaceをダウンロード
+
+最新版はこちら：
+
+https://github.com/Mellr1s-HomeServer/minecraft-modpack/releases/latest
+
+Assets 内の
+
+`Minecraft-WorkSpace.zip`
+
+をダウンロードしてください。
+
+※ `Source code (zip)` ではありません。
+
 # 3. Minecraft-WorkSpaceを追加する
 
 配布された
