@@ -30,6 +30,16 @@ hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "3f98b8818a028223e2f1fe07b0f4e1afa873aafa28770f6c7a275c57d2f50f15"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "175fad0cfd06f64bd9bc69158253d16813d3bb144356247d45c21426389d05e3"
+metafile = true
+
+[[files]]
 file = "mods/opti-zoom.pw.toml"
 hash = "24dd6543a69eb712fd8d16d71365d7ab26b25d621f6789f64be27bdfb56192da"
 metafile = true
