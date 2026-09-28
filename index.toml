@@ -10,6 +10,11 @@ hash = "3c4d4c97d1a3cb0c9818a8e95f56f551a6f0dfdc86ac3a9955ffceb47d1fe2fe"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "bc9dbc59ed18749ebe8b2545b38cce326611b6a3957ae9e9984b2fc905a0e0af"
 metafile = true
@@ -32,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3f98b8818a028223e2f1fe07b0f4e1afa873aafa28770f6c7a275c57d2f50f15"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "c5b416f1c269307d46718744a08cf34e1f29978fa252677b18be612c697c3774"
 metafile = true
 
 [[files]]
