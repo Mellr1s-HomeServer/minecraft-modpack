@@ -15,6 +15,11 @@ hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
+file = "mods/compass-to-map-xaeros.pw.toml"
+hash = "15a476a0b5661ecb0265be43705e59e7e864ccc73214bf45db12c8abc7adcb81"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "bc9dbc59ed18749ebe8b2545b38cce326611b6a3957ae9e9984b2fc905a0e0af"
 metafile = true
